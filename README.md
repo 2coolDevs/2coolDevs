@@ -19,20 +19,22 @@ Me llamo Francisco Marichal, un simple programador Web, siempre me ha apasionado
   <img align="right" alt="GIF" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif" width="500" height="320" />
   
 - 💼 Tienes un proyecto? yo te ayudo! [email](mailto:franciscomarichal99@gmail.com)
-- 💬 Preguntame lo que sea! sobre Dessarrollo Web.
+- 💬 Preguntame sobre Dessarrollo Web.
 
 **Skills**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+<br />
+<br />
 
 📈 Mi estadísticas
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=2coolDevs&show_icons=true&theme=gotham" alt="2coolDevs" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=2coolDevs&show_icons=true&theme=gotham" alt="2coolDevs" />
 
 
 
